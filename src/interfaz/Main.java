@@ -93,7 +93,7 @@ public class Main {
             System.out.println("1. Depósito y reserva de dinero");
             System.out.println("2. Gastos sin conexión");
             System.out.println("3. Conciliación y reportes");
-            // MÓDULO 5 (pendiente): aquí se agregará la opción "Cupos y modo de ahorro"
+
             System.out.println("0. Cerrar sesión");
             opcion = leerEntero("Opción: ");
 
