@@ -2,10 +2,6 @@ package modelo;
 
 import java.util.ArrayList;
 
-/**
- * Cuenta del cliente. Separa el saldo disponible del saldo en reserva
- * y guarda la lista de todos sus movimientos (relación "registra" del UML).
- */
 public class CuentaLocal {
 
     public static final double SALDO_MAXIMO = 10000.00;

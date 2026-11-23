@@ -1,9 +1,5 @@
 package modelo;
 
-/**
- * Dinero que sale de la cuenta (Módulo 3, requerimientos R5 y R6).
- * Su estado puede ser EJECUTADO o ANULADO.
- */
 public class Gasto extends Movimiento {
 
     public static final String EJECUTADO = "EJECUTADO";

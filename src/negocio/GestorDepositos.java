@@ -3,9 +3,6 @@ package negocio;
 import modelo.CuentaLocal;
 import modelo.Deposito;
 
-/**
- * Módulo 2: guardar dinero en la cuenta y reservar / liberar dinero con PIN.
- */
 public class GestorDepositos {
 
     private int contador;

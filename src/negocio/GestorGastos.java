@@ -5,9 +5,6 @@ import modelo.CuentaLocal;
 import modelo.Gasto;
 import modelo.Movimiento;
 
-/**
- * Módulo 3: registrar, consultar y anular gastos.
- */
 public class GestorGastos {
 
     public static final String[] CATEGORIAS = {
